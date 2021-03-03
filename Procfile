@@ -1,1 +1,0 @@
-web: gunicorn NewPort.wsgi
